@@ -1,5 +1,7 @@
-Hi, I’m a Web3 Security Researcher and I specialize in Move and Rust, and I love diving into new concepts, dissecting codebases, and uncovering hidden risks in complex systems.
+### About Me
+I'm currently a student and an independent web3 security researcher in my free time. I specialize in Rust and Move, and I love exploring new concepts, dissecting complex codebases, and uncovering hidden risks in decentralized systems. I'm especially passionate about participating in public audit competitions, where I continually sharpen my skills and contribute to making crypto more secure. You can follow me on [X (@Schnilch)](https://x.com/Schnilch) to see my latest achievements.
 
+### Public Contests
 These are all my Top 10 finishes I've had so far in public audit contests:
 | Competition | Language | Result | Leaderboard |
 | --- | --- | --- | --- |
@@ -11,5 +13,3 @@ These are all my Top 10 finishes I've had so far in public audit contests:
 | HydraDX | Rust | 4th | [Code4rena](https://code4rena.com/audits/2024-03-acala) |
 | Steadefi | Solidity | 6th | [Codehawks](https://codehawks.cyfrin.io/c/2023-10-SteadeFi/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
 | DittoETH | Solidity | 4th | [Codehawks](https://codehawks.cyfrin.io/c/2023-09-ditto/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) |
-
-You can follow me on [X (@Schnilch)](https://x.com/Schnilch) to see my latest achievements.
