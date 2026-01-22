@@ -5,6 +5,8 @@ I'm currently a student and an independent web3 security researcher in my free t
 These are all my Top 10 finishes I've had so far in public audit contests:
 | Competition | Language | Result | Leaderboard |
 | --- | --- | --- | --- |
+| Somnia | C++ | 2nd | [Hackenproof](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=hackers) |
+| Aquarius | Rust | 5th | [Cantina](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff/leaderboard) |
 | Cabal Liquid Staking Token | Move | 1st | [Code4rena](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token) |
 | BitVault | Solidity | 5th | [Code4rena](https://code4rena.com/audits/2025-04-bitvault) |
 | Symmio, Staking and Vesting | Solidity | 4th | [Sherlock](https://audits.sherlock.xyz/contests/838/leaderboard) |
