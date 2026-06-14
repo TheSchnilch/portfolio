@@ -1,10 +1,15 @@
 ### About Me
-I'm currently a student and an independent web3 security researcher in my free time. I specialize in Rust and Move, and I love exploring new concepts, dissecting complex codebases, and uncovering hidden risks in decentralized systems. I'm especially passionate about participating in public audit competitions, where I continually sharpen my skills and contribute to making crypto more secure. You can follow me on [X (@Schnilch)](https://x.com/Schnilch) to see my latest achievements.
+I'm a full-time Web3 security researcher. My main areas of experience are Solidity, Move, and Rust, and I love exploring new ecosystems and technologies. I have successfully placed in the top 10 in over 10 contests.
+
+You can follow me on X (@Schnilch) to see my latest achievements.
+
+DM me on Telegram for audits or collaborations: https://t.me/schnilch
 
 ### Public Contests
 These are all my Top 10 finishes I've had so far in public audit contests:
 | Competition | Language | Result | Leaderboard |
 | --- | --- | --- | --- |
+| Monad | Rust/C++ | 6th | [Code4rena](https://code4rena.com/audits/2025-09-monad) |
 | Somnia | C++ | 2nd | [Hackenproof](https://hackenproof.com/audit-programs/somnia-audit-contest?tab=hackers) |
 | Aquarius | Rust | 5th | [Cantina](https://cantina.xyz/competitions/990ce947-05da-443e-b397-be38a65f0bff/leaderboard) |
 | Cabal Liquid Staking Token | Move | 1st | [Code4rena](https://code4rena.com/audits/2025-04-cabal-liquid-staking-token) |
