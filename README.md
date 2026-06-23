@@ -1,3 +1,5 @@
+A new complete portfolio can be found at: https://www.schnilchsecurity.com.
+
 ### About Me
 I'm a full-time Web3 security researcher. My main areas of experience are Solidity, Move, and Rust, and I love exploring new ecosystems and technologies. I have successfully placed in the top 10 in over 10 contests.
 
